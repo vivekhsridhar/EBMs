@@ -1,0 +1,6 @@
+# Requirements for HopfieldNetwork.ipynb
+numpy
+matplotlib
+tensorflow
+keras
+jupyterlab
